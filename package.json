@@ -1,0 +1,21 @@
+{
+  "name": "web-xr-multi-ws-server",
+  "version": "1.0.0",
+  "description": "Web XR 멀티플레이용 WebSocket 서버",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "websocket",
+    "webxr",
+    "multiplayer"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
+
